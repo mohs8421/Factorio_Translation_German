@@ -1,0 +1,10 @@
+{
+  "msg-escaped": "Ich habe die Daten aber es gibt kein zurück.",
+  "msg-enemy": "Es scheint so als wäre ihre Zahl größer als erwartet und sie suchen bereits nach mir.",
+  "msg-escape": "Ich kann ihren Attacken nicht standhalten, nicht mit diesem Technologieniveau. Ich muss zu einem anderen Kontinent fliehen um mehr Zeit für Vorbereitungen zu erhalten.",
+  "msg-research-flight": "Um das zu bewerkstelligen muss ich die Flugtechnik erforschen.",
+  "goal-research-flight": "Erforsche Flugtechnik.",
+  "goal-next-attack": "Nächster Angriff in __1__.",
+  "msg-finished": "Ich habe es geschafft, ich bin entkommen, ich hatte nicht geglaubt, dass ich dazu in der Lage wäre!",
+  "msg-go-away": "Lass uns zu einem ruhigen Ort fliehen, einem Ort weit weg."
+}
