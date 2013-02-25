@@ -1,27 +1,26 @@
-
 [
   {
     "title": "Stapel versetzen",
     "image": "stack-transfer.png",
-    "text": "Die Anwendung von \"__CONTROL__stack-transfer__\" bewegt einen ganzen Stapel von Gegenständen. Diese Funktion ist intelligent genug um herauszufinden wohin der Stapel bewegt werden soll. Zum Beispiel: Wendet man 'Stapel versetzen' auf eine __ITEM__iron-axe__ an so wird diese vom Inventar in den Werkzeugslot gesetzt." },
+    "text": "Die Anwendung von \"__CONTROL__stack-transfer__\" bewegt einen ganzen Stapel von Gegenständen. Diese Funktion ist intelligent genug um herauszufinden, wohin der Stapel bewegt werden soll. Zum Beispiel: Wendet man 'Stapel versetzen' auf eine __ITEM__iron-axe__ an, so wird diese vom Inventar in den Werkzeugslot gesetzt." },
   {
     "title": "Inventar Austausch",
     "image": "inventory-transfer.png",
-    "text": "Die Anwendung von \"__CONTROL__inventory-transfer__\" bewegt alle Stapel von einem Gegenstandstyp in das andere Inventar. Das kann zum Beispiel benützt werden um alle Fließbänder von einer __ENTITY__wooden-chest__ zum eigenen Inventar zu bewegen."
+    "text": "Die Anwendung von \"__CONTROL__inventory-transfer__\" bewegt alle Stapel von einem Gegenstandstyp in das andere Inventar. Das kann zum Beispiel benützt werden, um alle Fließbänder von einer __ENTITY__wooden-chest__ zum eigenen Inventar zu bewegen."
   },
   {
     "title": "Schneller Objekt Austausch",
     "image": "fast-entity-transfer.png",
-    "text": "Die Anwendung von \"__CONTROL__fast-entity-transfer__\" erlaubt es dir einen Austausch von Gegenständen mit einem Objekt zu machen ohne dessen Fenster zu öffnen. Wenn die Hand des Spielers leer ist so geschieht der Austausch vom Objekt in das Inventar des Spielers, und umgekehrt wenn die Hand des Spielers belegt ist. Das kann in den frühen Phasen eines Spiels nützlich sein um __ENTITY__stone-furnace-plural__, __ENTITY__burner-mining-drill-3__, etc zu bedienen."
+    "text": "Die Anwendung von \"__CONTROL__fast-entity-transfer__\" erlaubt es dir einen Austausch von Gegenständen mit einem Objekt zu machen ohne dessen Fenster zu öffnen. Wenn die Hand des Spielers leer ist, so geschieht der Austausch vom Objekt in das Inventar des Spielers und umgekehrt wenn die Hand des Spielers belegt ist. Das kann in den frühen Phasen eines Spiels nützlich sein um __ENTITY__stone-furnace-plural__, __ENTITY__burner-mining-drill-3__, etc zu bedienen."
   },
   {
     "title": "Schnellleisten Zugriff",
     "image": "quickbar.png",
-    "text": "Jeder Schnellleistenslot hat einen Shortcut um den Gegenstand in die Hand des Spielers zu legen. Wenn sich bereits ein Gegenstand in deiner Hand befindet wird er wieder in den Slot zurückgelegt von dem du ihn genommen hast."
+    "text": "Jeder Schnellleistenslot hat einen Shortcut, um den Gegenstand in die Hand des Spielers zu legen. Wenn sich bereits ein Gegenstand in deiner Hand befindet, wird er wieder in den Slot zurückgelegt von dem du ihn genommen hast."
   },
   {
     "title": "Hand zurücksetzen",
-    "text": "Die Anwendung von \"__CONTROL__clean-cursor__\" legt den Stapel der sich gerade in der Hand des Spielers befindet wieder in die Schnellleiste oder in das Inventar zurück."
+    "text": "Die Anwendung von \"__CONTROL__clean-cursor__\" legt den Stapel, der sich gerade in der Hand des Spielers befindet, wieder in die Schnellleiste oder in das Inventar zurück."
   },
   {
     "title": "Erweiterte Informationen",
