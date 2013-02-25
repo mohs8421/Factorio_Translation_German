@@ -1,7 +1,7 @@
 {
   "msg-introduction": "Das letzte an das du dich erinnern kannst ist der Einstieg in die Rettungskapsel (drücke __CONTROL__confirm-message__ um fortzufahren).",
   "msg-introduction-2": "Um dich herum siehst du weder ein Mitglied der Raumschiffcrew, noch irgendein Wrack ausser dich selbst.",
-  test
+
   "goal-intro-msg": "Du kannst stets das aktuelle Ziel in der linken oberen Ecke sehen.",
   "goal-movement": "Drücke die Tasten __CONTROL__move-up__, __CONTROL__move-left__, __CONTROL__move-down__ und __CONTROL__move-right__ um dich zu bewegen",
 
