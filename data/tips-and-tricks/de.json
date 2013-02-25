@@ -3,11 +3,11 @@
   {
     "title": "Stapel versetzen",
     "image": "stack-transfer.png",
-    "text": "Die Anwendung von \"__CONTROL__stack-transfer__\" bewegt einen ganzen Stapel von Gegenständen. Zusätzlich ist die Funktion intelligent genug um herauszufinden wohin der Stapel bewegt werden soll. Zum Beispiel: Wendet man Stapel versetzen auf eine __ITEM__iron-axe__ an so wird diese vom Inventar in den Werkzeugslot gesetzt." },
+    "text": "Die Anwendung von \"__CONTROL__stack-transfer__\" bewegt einen ganzen Stapel von Gegenständen. Diese Funktion ist intelligent genug um herauszufinden wohin der Stapel bewegt werden soll. Zum Beispiel: Wendet man 'Stapel versetzen' auf eine __ITEM__iron-axe__ an so wird diese vom Inventar in den Werkzeugslot gesetzt." },
   {
     "title": "Inventar Austausch",
     "image": "inventory-transfer.png",
-    "text": "Die Anwendung von \"__CONTROL__inventory-transfer__\" bewegt alle Stapel von einem Gegenstandtyp in das andere Inventar. Das kann zum Beispiel benützt werden um alle Fließbänder von einer __ENTITY__wooden-chest__ zum eigenen Inventar zu bewegen."
+    "text": "Die Anwendung von \"__CONTROL__inventory-transfer__\" bewegt alle Stapel von einem Gegenstandstyp in das andere Inventar. Das kann zum Beispiel benützt werden um alle Fließbänder von einer __ENTITY__wooden-chest__ zum eigenen Inventar zu bewegen."
   },
   {
     "title": "Schneller Objekt Austausch",
@@ -17,25 +17,25 @@
   {
     "title": "Schnellleisten Zugriff",
     "image": "quickbar.png",
-    "text": "Jeder Schnellleistenslot hat einen Shortcut um den Gegenstand in die Hand des Spielers zu legen. Wenn du bereits einen anderen Gegenstand der Schnellleiste in der Hand hast so wird dieser dorthin zurückgelegt von wo er geonommen wurde."
+    "text": "Jeder Schnellleistenslot hat einen Shortcut um den Gegenstand in die Hand des Spielers zu legen. Wenn sich bereits ein Gegenstand in deiner Hand befindet wird er wieder in den Slot zurückgelegt von dem du ihn genommen hast."
   },
   {
     "title": "Hand zurücksetzen",
-    "text": "Die Anwendung von \"__CONTROL__clean-cursor__\" wird den Stapel der gerade in der Hand des Spielers ist wieder in die Schnellleiste oder in das Inventar zurücklegen."
+    "text": "Die Anwendung von \"__CONTROL__clean-cursor__\" legt den Stapel der sich gerade in der Hand des Spielers befindet wieder in die Schnellleiste oder in das Inventar zurück."
   },
   {
     "title": "Erweiterte Informationen",
     "image": "show-info.png",
-    "text": "Die Anwendung von \"__CONTROL__show-info__\" wird Erweiterte Informationen an- und ausschalten."
+    "text": "\"__CONTROL__show-info__\" schaltet Erweiterte-Information an/aus."
   },
   {
     "title": "Bauen und Rennen",
     "image": "building-while-running.png",
-    "text": "Der schnellste Weg um Anlagen in einer Linie zu bauen, wie das Fließband oder Rohre ist \"__CONTROL__build__\" auf dem gewünschten Ort gedrückt zu halten und in die gewünschte Richtung zu rennen."
+    "text": "Der schnellste Weg um Anlagen in einer Linie zu bauen, wie Fließbänder oder Rohre, ist \"__CONTROL__build__\" auf einem Ort gedrückt zu halten und in die gewünschte Richtung zu rennen."
   },
   {
     "title": "Filter",
     "image": "filter.png",
-    "text": "Die Anwendung von \"__CONTROL__set-filter__\" auf einem Schnellleistenslot reserviert den Slot für den dort befindlichen Gegenstand. Kein anderer Gegenstand kann in diesen Slot gelegt werden und Gegenstände vom betreffenden Typ werden stets in diesen Slot gelegt."
+    "text": "Die Anwendung von \"__CONTROL__set-filter__\" auf einem Schnellleistenslot reserviert den Slot für den dort befindlichen Gegenstand. Kein anderer Gegenstand kann in diesen Slot gelegt werden und Gegenstände vom betreffenden Typ werden stets in diesen Slot abgelegt."
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "think-find-ship": "Ich könnte die Ausrüstung von unserem abgestürztem Raumschiff wirlich brauchen.",
-  "think-no-idea-where-to-start": "Das Problem ist, dass ich keien Ahnung habe wo ich beginnen soll zu suchen.",
+  "think-find-ship": "Ich könnte die Ausrüstung von unserem abgestürztem Raumschiff wirklich brauchen.",
+  "think-no-idea-where-to-start": "Das Problem ist, dass ich keine Ahnung habe wo ich beginnen soll zu suchen.",
   "think-use-radar": "Vielleicht könnte ich ein einfaches __ENTITY__radar__ bauen um es zu lokalisieren.",
   "think-make-electricity": "Aber zuerst muss ich elektrischen Strom erzeugen.",
   "think-build-pump": "Ich könnte Wasser hochpumpen, erhitzen und damit eine __ENTITY__steam-engine__ antreiben.",
@@ -16,7 +16,7 @@
   "msg-have-electricity": "Jetzt kannst du den Strom benützen um __ENTITY__basic-mining-drill-3__ und __ENTITY__basic-inserter__ anzutreiben.",
   "goal-build-electric-mining-drill": "Baue einen __ENTITY__basic-mining-drill-2__ auf einem Ressourcenfeld.",
   "goal-power-electric-mining-drill": "Verbinde den __ENTITY__basic-mining-drill-2__ mit der __ENTITY__steam-engine__. Dafür benötigst du __ENTITY__small-electric-pole__en.",
-  "msg-factory-instruction-1": "Gut, nun verwende die Elektrizität um sicherzustellen, dass die __ENTITY__boiler__ ständig mit __ENTITY__coal__ versorgt sind.",
+  "msg-factory-instruction-1": "Gut, nun verwende die Elektrizität um sicherzustellen, dass die __ENTITY__boiler__ ständig mit __ENTITY__coal__ versorgt werden.",
   "msg-factory-instruction-2": "Baue __ENTITY__stone-furnace-plural__ um __ENTITY__iron-ore__ und __ENTITY__copper-ore__ zu schmelzen.",
   "msg-factory-instruction-3": "Letztendlich, baue __ENTITY__radar__e um die Umbegung zu scannen.",
   "think-get-to-work": "Okay, an die Arbeit",
