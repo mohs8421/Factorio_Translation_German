@@ -1,6 +1,6 @@
 {
   "msg-introduction": "Das letzte an das du dich erinnern kannst ist der Einstieg in die Rettungskapsel (drücke __CONTROL__confirm-message__ um fortzufahren).",
-  "msg-introduction-2": "Um dich herum siehst du weder ein Mitglied der Raumschiffcrew, noch irgendein Wrack ausser dich selbst.",
+  "msg-introduction-2": "Um dich herum siehst du weder ein Mitglied der Raumschiffcrew, noch irgendein Wrack außer dich selbst.",
 
   "goal-intro-msg": "Du kannst stets das aktuelle Ziel in der linken oberen Ecke sehen.",
   "goal-movement": "Drücke die Tasten __CONTROL__move-up__, __CONTROL__move-left__, __CONTROL__move-down__ und __CONTROL__move-right__ um dich zu bewegen",
@@ -8,7 +8,7 @@
   "think-search-wreck": "Möglicherweise gibt es etwas Nützliches in den Überresten der Kapsel!",
   "goal-search-wreck": "Gehe durch die Überreste der Kapsel. (Öffne sie indem du __CONTROL__open-gui__ auf ihr drückst).",
   "msg-inventory-introduction": "Dein Inventar ist auf der linken Seite. Bewege die __ITEM__iron-plate__en dort hin.",
-  "goal-close-screen": "Schliesse das Fenster (drücke __CONTROL__close-gui__). Jedes Fenster wird mit __CONTROL__close-gui__ geschlossen.",
+  "goal-close-screen": "Schließe das Fenster (drücke __CONTROL__close-gui__). Jedes Fenster wird mit __CONTROL__close-gui__ geschlossen.",
 
   "think-nothing-more": "Es gibt nichts anderes, Ich muss ein paar einfache Werkzeuge selbst bauen.",
 
@@ -19,7 +19,7 @@
   "msg-recipes-info-3": "Wenn du über ein Rezept fährst siehst du welche und wieviele Zutaten benötigt werden.",
   "goal-craft-iron-axe": "Erstelle eine __ITEM__iron-axe__.",
   "msg-crafting-queue-1": "Das ist deine Bauschleife. Dazwischengelegene Rezepte werden automatisch abgearbeitet.",
-  "goal-close-character-screen": "Schliesse das Charakterfenster (drücke __CONTROL__close-gui__).",
+  "goal-close-character-screen": "Schließe das Charakterfenster (drücke __CONTROL__close-gui__).",
   "msg-iron-axe-equipped": "Du wurdest automatisch mit der __ITEM__iron-axe__ ausgerüstet. Du siehst sie im Werkzeug Slot.",
 
   "goal-mine-iron-ore": "Gehe zum __ENTITY__iron-ore__, zeige mit der Maus auf es (blaues Rechteck erscheint) und bau es ab indem du __CONTROL__mine__ gedrückt hältst.",

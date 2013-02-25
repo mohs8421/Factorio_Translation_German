@@ -7,7 +7,7 @@
   {
     "title": "Inventar Austausch",
     "image": "inventory-transfer.png",
-    "text": "Die Anwendung von \"__CONTROL__inventory-transfer__\" bewegt alle Stapel von einem Gegenstandtyp in das andere Inventar. Das kann zum Beispiel benützt werden um alle Fliessbänder von einer __ENTITY__wooden-chest__ zum eigenen Inventar zu bewegen."
+    "text": "Die Anwendung von \"__CONTROL__inventory-transfer__\" bewegt alle Stapel von einem Gegenstandtyp in das andere Inventar. Das kann zum Beispiel benützt werden um alle Fließbänder von einer __ENTITY__wooden-chest__ zum eigenen Inventar zu bewegen."
   },
   {
     "title": "Schneller Objekt Austausch",
@@ -31,7 +31,7 @@
   {
     "title": "Bauen und Rennen",
     "image": "building-while-running.png",
-    "text": "Der schnellste Weg um Anlagen in einer Linie zu bauen, wie das Fliessband oder Rohre ist \"__CONTROL__build__\" auf dem gewünschten Ort gedrückt zu halten und in die gewünschte Richtung zu rennen."
+    "text": "Der schnellste Weg um Anlagen in einer Linie zu bauen, wie das Fließband oder Rohre ist \"__CONTROL__build__\" auf dem gewünschten Ort gedrückt zu halten und in die gewünschte Richtung zu rennen."
   },
   {
     "title": "Filter",
