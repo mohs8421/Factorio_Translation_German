@@ -5,7 +5,7 @@
    "msg-wreck-time-limit": "Ich habe __1__ Minuten um die Daten sicherzustellen oder sie werden es selbst tun.",
    "msg-tip": "Ich sollte womöglich zuerst ein Kraftwerk bauen und die Optik erforschen, um Lampen für die Nacht zu bauen.",
    "msg-research": "Geforscht wird im __ENTITY__lab__. du kannst die immer Informationen zu den Technologien ansehen indem du __CONTROL__open-technology-gui__ drückst.",
-   "msg-rockets-needed": "Ich werde wahrscheinlich viele Raketen brauchen um durch ihre Linien zu brechen. Ich kann wohlkaum alle per Hand herstelle, also muus ich eine __ENTYTY__assembling-machine__ dafür benützen.",
+   "msg-rockets-needed": "Ich werde wahrscheinlich viele Raketen brauchen um durch ihre Linien zu brechen. Ich kann wohl kaum alle per Hand herstelle, also muss ich eine __ENTYTY__assembling-machine__ dafür benützen.",
    "msg-armor-needed": "Ich brauche etwas Schutz. Ich sollte eine Rüstung herstellen und diese anlegen.",
    "goal-get-computer": "Stell den Computer sicher. (Südosten)\nZeit übrig: __1__",
    "goal-get-computer-without-time": "Stell den Computer sicher. (Südosten)"
