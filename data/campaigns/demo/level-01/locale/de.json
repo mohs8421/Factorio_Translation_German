@@ -10,17 +10,17 @@
   "msg-inventory-introduction": "Dein Inventar ist auf der linken Seite. Bewege die __ITEM__iron-plate__en dort hin.",
   "goal-close-screen": "Schließe das Fenster (drücke __CONTROL__close-gui__). Jedes Fenster wird mit __CONTROL__close-gui__ geschlossen.",
 
-  "think-nothing-more": "Es gibt nichts anderes, Ich mir muss ein paar einfache Werkzeuge selbst herstellen.",
+  "think-nothing-more": "Es gibt nichts anderes, ich muss mir ein paar einfache Werkzeuge selbst herstellen.",
 
   "goal-open-character-screen-1": "Öffne das Charakterfenster durch drücken von __CONTROL__open-character-gui__.",
 
-  "msg-recipes-info-1": "Auf der rechten Seite siehst du deine Baupläne. Durch Linksklick auf ein Bauplan wird das Objekt auf dem Bild hergestellt.",
-  "msg-recipes-info-2": "Die Zahl am Bauplan zeigt an wieviele Objekte davon mit den Bauteilen in deinem Inventar hergestellt werden können.",
-  "msg-recipes-info-3": "Bewege die Maus über einen Bauplan um zu sehen wieviele Bauteile dafür benötigt werden.",
+  "msg-recipes-info-1": "Auf der rechten Seite siehst du deine Baupläne. Durch Linksklick auf einen Bauplan wird das Objekt auf dem Bild hergestellt.",
+  "msg-recipes-info-2": "Die Zahl am Bauplan zeigt an, wieviele Objekte davon mit den Bauteilen in deinem Inventar hergestellt werden können.",
+  "msg-recipes-info-3": "Bewege die Maus über einen Bauplan um zu sehen welche und wieviele Bauteile dafür benötigt werden.",
   "goal-craft-iron-axe": "Erstelle eine __ITEM__iron-axe__.",
   "msg-crafting-queue-1": "Das ist deine Bauschleife. Dazwischengelegene Baupläne werden automatisch abgearbeitet.",
   "goal-close-character-screen": "Schließe das Charakterfenster (drücke __CONTROL__close-gui__).",
-  "msg-iron-axe-equipped": "Du wurdest automatisch mit der __ITEM__iron-axe__ ausgerüstet. Du siehst sie im Werkzeugslot.",
+  "msg-iron-axe-equipped": "Du wurdest automatisch mit der __ITEM__iron-axe__ ausgerüstet. Du kannst sie im Werkzeugslot sehen.",
 
   "goal-mine-iron-ore": "Gehe zu einem Feld mit __ENTITY__iron-ore__, bewege die Maus über das Feld (blaues Rechteck erscheint) und baue das __ENTITY__iron-ore__ ab indem du __CONTROL__mine__ gedrückt hältst.",
   "msg-entity-info": "Wenn du die Maus über ein Objekt bewegst erscheinen nützliche Informationen in der rechten oberen Ecke",
@@ -33,14 +33,14 @@
   "think-need-new-axe": "Diese __ITEM__stone-axe__ wird schnell kaputt. I brauche etwas haltbareres.",
   
   "goal-craft-furnace": "Erstelle einen __ENTITY__stone-furnace__ (drücke __CONTROL__open-character-gui__ und sieh in den Bauplänen nach).",
-  "msg-quickbar-introduction": "Dinge die du erstellst werden direkt auf der Schnellleiste abgelegt.",
-  "goal-build-furnace": "Klicke auf den __ENTITY__stone-furnace__ in der Schnellleiste und platziere ihn auf dem Boden indem du __CONTROL__build__ drückst.",
+  "msg-quickbar-introduction": "Objekte die du erstellst werden direkt auf der Schnellleiste abgelegt.",
+  "goal-build-furnace": "Klicke auf den __ENTITY__stone-furnace__ in der Schnellleiste und platziere ihn auf der Karte indem du __CONTROL__build__ drückst.",
   "goal-open-furnace": "Öffne den Ofen (drücke __CONTROL__open-gui__).",
   "goal-insert-fuel-into-furnace": "Gib Brennstoff in den __ENTITY__stone-furnace__.\n__ENTITY__coal__ oder __ITEM__wood__ kann hierfür verwendet werden.",
   "goal-insert-iron-into-furnace": "Gib das Eisen in den Verarbeitungsslot des __ENTITY__stone-furnace__.",
   "msg-furnace-working": "Der __ENTITY__stone-furnace__ schmelzt nun __ENTITY__iron-ore__ zu __ITEM__iron-plate__n.",
   "think-furnace-useful": "Das war überhaupt nicht schwierig. Dieser __ENTITY__stone-furnace__ wird noch nützlich sein.",
-  "goal-get-iron-plates-from-furnace": "Hol die verarbeiteten __ITEM__iron-plate__n aus dem __ENTITY__stone-furnace__",
+  "goal-get-iron-plates-from-furnace": "Hole die verarbeiteten __ITEM__iron-plate__n aus dem __ENTITY__stone-furnace__",
   
   "think-tired": "Ich bin ziemlich müde vom Abbau. Könnte man das nicht automatisieren?",
   "goal-craft-burner-miner": "Erstelle einen __ENTITY__burner-mining-drill-2__.",
