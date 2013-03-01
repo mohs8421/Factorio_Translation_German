@@ -1,16 +1,16 @@
 {
-  "msg-introduction": "Das letzte an das du dich erinnern kannst ist der Einstieg in die Rettungskapsel (drücke __CONTROL__confirm-message__ um fortzufahren).",
+  "msg-introduction": "Das letzte an das du dich erinnern kannst ist der Einstieg in deine Rettungskapsel (drücke __CONTROL__confirm-message__ um fortzufahren).",
   "msg-introduction-2": "Um dich herum siehst du weder ein Mitglied der Raumschiffcrew, noch irgendein Wrack außer dich selbst.",
 
   "goal-intro-msg": "Du kannst stets das aktuelle Ziel in der linken oberen Ecke sehen.",
   "goal-movement": "Drücke die Tasten __CONTROL__move-up__, __CONTROL__move-left__, __CONTROL__move-down__ und __CONTROL__move-right__ um dich zu bewegen",
 
   "think-search-wreck": "Möglicherweise gibt es etwas Nützliches in den Überresten der Kapsel!",
-  "goal-search-wreck": "Gehe durch die Überreste der Kapsel. (Öffne sie indem du __CONTROL__open-gui__ auf ihr drückst).",
+  "goal-search-wreck": "Durchsuche die Überreste der Kapsel. (Öffne sie indem du __CONTROL__open-gui__ auf ihr drückst).",
   "msg-inventory-introduction": "Dein Inventar ist auf der linken Seite. Bewege die __ITEM__iron-plate__en dort hin.",
   "goal-close-screen": "Schließe das Fenster (drücke __CONTROL__close-gui__). Jedes Fenster wird mit __CONTROL__close-gui__ geschlossen.",
 
-  "think-nothing-more": "Es gibt nichts anderes, ich muss mir ein paar einfache Werkzeuge selbst herstellen.",
+  "think-nothing-more": "Leider gibt es nichts anderes, ich muss mir ein paar einfache Werkzeuge selbst herstellen.",
 
   "goal-open-character-screen-1": "Öffne das Charakterfenster durch drücken von __CONTROL__open-character-gui__.",
 
