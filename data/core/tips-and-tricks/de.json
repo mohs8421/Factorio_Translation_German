@@ -1,3 +1,4 @@
+
 [
   {
     "title": "Stapel versetzen",
@@ -20,7 +21,8 @@
   },
   {
     "title": "Hand zurücksetzen",
-    "text": "Die Anwendung von \"__CONTROL__clean-cursor__\" legt den Stapel, der sich gerade in deiner Hand befindet, wieder in die Schnellleiste oder in das Inventar zurück."  },
+    "text": "Die Anwendung von \"__CONTROL__clean-cursor__\" legt den Stapel, der sich gerade in deiner Hand befindet, wieder in die Schnellleiste oder in das Inventar zurück."
+  },
   {
     "title": "Erweiterte Informationen",
     "image": "show-info.png",
