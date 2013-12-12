@@ -1,27 +1,48 @@
 
 [
   {
+    "title": "Other products made in furnace",
+    "image": "other-furnace-usage.png",
+    "text": "The furnace can smelt stone bricks from stone and steel from iron (the steel needs to be researched)."
+  },
+  {
+    "title": "Two sides of belts",
+    "image": "two-sides-of-belts.png",
+    "text": "The left and right side of the transport belt can be used independently for different resources. Inserter puts things on the distant part of the belt."
+  },
+  {
+    "title": "Rebuilding",
+    "image": "rebuilding.png",
+    "text": "Stone furnace can be rebuilt by steel furnace without the need to mine the first one first. The similar works for assembling machines, transport belts, inserters chests and similar. It can be used to change direction of transport belt."
+  },
+  {
+    "title": "Electric network info",
+    "image": "electric-network-info.png",
+    "text": "Invoking \"__CONTROL__open-gui__\" on electric pole will open statistics of the electric network it is connected to."
+  },
+  {
     "title": "Stapel versetzen",
     "image": "stack-transfer.png",
-    "text": "Die Anwendung von \"__CONTROL__stack-transfer__\" bewegt einen ganzen Stapel von GegenstÃ¤nden. Diese Funktion ist intelligent genug, um herauszufinden, wohin der Stapel bewegt werden soll. Zum Beispiel: Wendet man 'Stapel versetzen' auf eine __ITEM__iron-axe__ an, so wird diese vom Inventar in den Werkzeugslot gesetzt." },
+    "text": "Die Anwendung von \"__CONTROL__stack-transfer__\" bewegt einen ganzen Stapel von Gegenständen. Diese Funktion ist intelligent genug, um herauszufinden, wohin der Stapel bewegt werden soll. Zum Beispiel: Wendet man 'Stapel versetzen' auf eine __ITEM__iron-axe__ an, so wird diese vom Inventar in den Werkzeugslot gesetzt."  },
   {
     "title": "Inventar Austausch",
     "image": "inventory-transfer.png",
-    "text": "Die Anwendung von \"__CONTROL__inventory-transfer__\" bewegt alle Stapel von einem Gegenstandstyp in das andere Inventar. Das kann zum Beispiel benÃ¼tzt werden, um alle FlieÃŸbÃ¤nder von einer __ENTITY__wooden-chest__ zum eigenen Inventar zu bewegen."
+    "text": "Die Anwendung von \"__CONTROL__inventory-transfer__\" bewegt alle Stapel von einem Gegenstandstyp in das andere Inventar. Das kann zum Beispiel benützt werden, um alle Fließbänder von einer __ENTITY__wooden-chest__ zum eigenen Inventar zu bewegen."
   },
   {
     "title": "Schneller Objekt Austausch",
     "image": "fast-entity-transfer.png",
-    "text": "Die Anwendung von \"__CONTROL__fast-entity-transfer__\" erlaubt es dir einen Austausch von GegenstÃ¤nden mit einem Objekt zu machen, ohne dessen Fenster zu Ã¶ffnen. Wenn deine Hand leer ist, so geschieht der Austausch vom Objekt in dein Inventar und umgekehrt wenn deine Hand belegt ist. Das kann in den frÃ¼hen Phasen eines Spiels nÃ¼tzlich sein um __ENTITY__stone-furnace-plural__, __ENTITY__burner-mining-drill-3__, etc zu bedienen."
+    "text": "Die Anwendung von \"__CONTROL__fast-entity-transfer__\" erlaubt es dir einen Austausch von Gegenständen mit einem Objekt zu machen, ohne dessen Fenster zu öffnen. Wenn deine Hand leer ist, so geschieht der Austausch vom Objekt in dein Inventar und umgekehrt wenn deine Hand belegt ist. Das kann in den frühen Phasen eines Spiels nützlich sein um __ENTITY__stone-furnace-plural__, __ENTITY__burner-mining-drill-3__, etc zu bedienen."
   },
   {
     "title": "Schnellleisten Zugriff",
     "image": "quickbar.png",
-    "text": "Jeder Schnellleistenslot hat einen Shortcut, um den Gegenstand direkt in deine Hand zu legen. Wenn sich bereits ein Gegenstand in deiner Hand befindet, wird er wieder in den Slot zurÃ¼ckgelegt von dem du ihn genommen hast."
+    "text": "Jeder Schnellleistenslot hat einen Shortcut, um den Gegenstand direkt in deine Hand zu legen. Wenn sich bereits ein Gegenstand in deiner Hand befindet, wird er wieder in den Slot zurückgelegt von dem du ihn genommen hast."
   },
   {
-    "title": "Hand zurÃ¼cksetzen",
-    "text": "Die Anwendung von \"__CONTROL__clean-cursor__\" legt den Stapel, der sich gerade in deiner Hand befindet, wieder in die Schnellleiste oder in das Inventar zurÃ¼ck."
+    "title": "Hand zurücksetzen",
+    "image": "clean-cursor.png",
+    "text": "Die Anwendung von \"__CONTROL__clean-cursor__\" legt den Stapel, der sich gerade in deiner Hand befindet, wieder in die Schnellleiste oder in das Inventar zurück."
   },
   {
     "title": "Erweiterte Informationen",
@@ -31,11 +52,26 @@
   {
     "title": "Bauen und Rennen",
     "image": "building-while-running.png",
-    "text": "Der schnellste Weg um Anlagen in einer Linie zu bauen, wie FlieÃŸbÃ¤nder oder Rohre, ist \"__CONTROL__build__\" auf einem Ort gedrÃ¼ckt zu halten und in die gewÃ¼nschte Richtung zu rennen."
+    "text": "Der schnellste Weg um Anlagen in einer Linie zu bauen, wie Fließbänder oder Rohre, ist \"__CONTROL__build__\" auf einem Ort gedrückt zu halten und in die gewünschte Richtung zu rennen."
+  },
+  {
+    "title": "Fast building of electric lines",
+    "image": "building-electric-lines.png",
+    "text": "The fast way to build electric line is to drag the build key while moving, the next pole will be built on the furthest possible place automatically."
   },
   {
     "title": "Filter",
     "image": "filter.png",
-    "text": "Die Anwendung von \"__CONTROL__set-filter__\" auf einem Schnellleistenslot reserviert den Slot fÃ¼r den dort befindlichen Gegenstand. Kein anderer Gegenstand kann in diesen Slot gelegt werden und GegenstÃ¤nde vom betreffenden Typ werden stets in diesen Slot abgelegt."
+    "text": "Die Anwendung von \"__CONTROL__set-filter__\" auf einem Schnellleistenslot reserviert den Slot für den dort befindlichen Gegenstand. Kein anderer Gegenstand kann in diesen Slot gelegt werden und Gegenstände vom betreffenden Typ werden stets in diesen Slot abgelegt."
+  },
+  {
+    "title": "Usable items",
+    "image": "usable-items.png",
+    "text": "Usable items are activated by pressing the quickbar key on the corresponding slot. The mouse cursor specifies the place to activate them (for capsules and grenades)."
+  },
+  {
+    "title": "Copy build",
+    "image": "copy-build.png",
+    "text": "Building with \"__CONTROL__alternative-build__\" will copy all the machine internal configuration from the machine of that same type built for the last time. This includes the connection to the circuit network."
   }
 ]
