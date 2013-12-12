@@ -1,6 +1,4 @@
-Factorio_Translation_German
+Factorio Translation German
 ===========================
 
-German translation of the game Factorio
-
-Test
+German translation of the game [Factorio](http://www.factorio.com/)
