@@ -1,24 +1,24 @@
 
 [
   {
-    "title": "Other products made in furnace",
+    "title": "Andere Erzeugnisse mittels Schmelzöfen",
     "image": "other-furnace-usage.png",
-    "text": "The furnace can smelt stone bricks from stone and steel from iron (the steel needs to be researched)."
+    "text": "Schmelzöfen können Ziegel aus Stein und Stahl aus Eisenplatten erzeugen (Stahl muss erforscht werden)."
   },
   {
-    "title": "Two sides of belts",
+    "title": "Beide Seiten des Fließbandes",
     "image": "two-sides-of-belts.png",
-    "text": "The left and right side of the transport belt can be used independently for different resources. Inserter puts things on the distant part of the belt."
+    "text": "Die linke und die rechte Seite eines Fließbandes können unabhängig voneinander benützt werden um unterschiedliche Gegenstände zu transportieren. Knickarmroboter platzieren Gegenstände stets an der gegenüberliegenden Seite des Fließbandes."
   },
   {
-    "title": "Rebuilding",
+    "title": "Überbauen",
     "image": "rebuilding.png",
-    "text": "Stone furnace can be rebuilt by steel furnace without the need to mine the first one first. The similar works for assembling machines, transport belts, inserters chests and similar. It can be used to change direction of transport belt."
+    "text": "Steinöfen können überbaut werden ohne vorher abgebaut werden zu müssen, dabei bleiben die Gegenstände im Ofen erhalten. Ähnliches funktioniert auch mit Montagemaschinen, Fließbändern, Knickarmroboter, Truhen, etc. Dies kann dazu verwendet werden um die Ausrichtung von Knickarmrobotern und Fließbändern zu ändern."
   },
   {
-    "title": "Electric network info",
+    "title": "Energienetzwerk-Anzeige",
     "image": "electric-network-info.png",
-    "text": "Invoking \"__CONTROL__open-gui__\" on electric pole will open statistics of the electric network it is connected to."
+    "text": "Durch drücken von \"__CONTROL__open-gui__\" auf einen Strommast öffnet sich eine Anzeige die interessante Statistiken über das angeschlossene Energienetzwerk liefert."
   },
   {
     "title": "Stapel versetzen",
@@ -56,9 +56,9 @@
     "text": "Der schnellste Weg um Anlagen in einer Linie zu bauen, wie Fließbänder oder Rohre, ist \"__CONTROL__build__\" auf einem Ort gedrückt zu halten und in die gewünschte Richtung zu rennen."
   },
   {
-    "title": "Fast building of electric lines",
+    "title": "Schnelles errichten von Stromleitungen",
     "image": "building-electric-lines.png",
-    "text": "The fast way to build electric line is to drag the build key while moving, the next pole will be built on the furthest possible place automatically."
+    "text": "Der schnellste Weg um Stromleitungen zu errichten, ist \"__CONTROL_build__\" zu halten und in die gewünschte Richtung zu rennen, dabei werden die Strommasten automatisch soweit voneinander entfernt aufgestellt wie es möglich ist."
   },
   {
     "title": "Filter",
@@ -66,13 +66,13 @@
     "text": "Die Anwendung von \"__CONTROL__set-filter__\" auf einem Schnellleistenslot reserviert den Slot für den dort befindlichen Gegenstand. Kein anderer Gegenstand kann in diesen Slot gelegt werden und Gegenstände vom betreffenden Typ werden stets in diesen Slot abgelegt."
   },
   {
-    "title": "Usable items",
+    "title": "Benutzbare Gegenstände",
     "image": "usable-items.png",
-    "text": "Usable items are activated by pressing the quickbar key on the corresponding slot. The mouse cursor specifies the place to activate them (for capsules and grenades)."
+    "text": "Benutzbare Gegenstände werden verwendet, indem man den entsprechenden Hotkey für die Schnellleiste drückt. Die Position des Mauszeigers gibt die Position vor an dem der Gegenstand aktiviert werden soll(für Kapseln und Granaten)."
   },
   {
-    "title": "Copy build",
+    "title": "Kopierter Bau",
     "image": "copy-build.png",
-    "text": "Building with \"__CONTROL__alternative-build__\" will copy all the machine internal configuration from the machine of that same type built for the last time. This includes the connection to the circuit network."
+    "text": "Mit \"__CONTROL__alternative-build__\" zu bauen kopiert die Konfiguration, der Maschine des selben Typs, die zuletzt gebaut wurde, für die neue Maschine. Dies schließt Verbindungen zu Netzwerken mit ein."
   }
 ]
