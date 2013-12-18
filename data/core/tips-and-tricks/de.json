@@ -1,9 +1,30 @@
 
 [
   {
+    "title": "Andere Erzeugnisse mittels Schmelzöfen",
+    "image": "other-furnace-usage.png",
+    "text": "Schmelzöfen können Ziegel aus Stein und Stahl aus Eisenplatten erzeugen (Stahl muss erforscht werden)."
+  },
+  {
+    "title": "Beide Seiten des Fließbandes",
+    "image": "two-sides-of-belts.png",
+    "text": "Die linke und die rechte Seite eines Fließbandes können unabhängig voneinander benützt werden um unterschiedliche Gegenstände zu transportieren. Knickarmroboter platzieren Gegenstände stets an der gegenüberliegenden Seite des Fließbandes."
+  },
+  {
+    "title": "Überbauen",
+    "image": "rebuilding.png",
+    "text": "Steinöfen können überbaut werden ohne vorher abgebaut werden zu müssen, dabei bleiben die Gegenstände im Ofen erhalten. Ähnliches funktioniert auch mit Montagemaschinen, Fließbändern, Knickarmroboter, Truhen, etc. Dies kann dazu verwendet werden um die Ausrichtung von Knickarmrobotern und Fließbändern zu ändern."
+  },
+  {
+    "title": "Energienetzwerk-Anzeige",
+    "image": "electric-network-info.png",
+    "text": "Durch drücken von \"__CONTROL__open-gui__\" auf einen Strommast öffnet sich eine Anzeige die interessante Statistiken über das angeschlossene Energienetzwerk liefert."
+  },
+  {
     "title": "Stapel versetzen",
     "image": "stack-transfer.png",
-    "text": "Die Anwendung von \"__CONTROL__stack-transfer__\" bewegt einen ganzen Stapel von Gegenständen. Diese Funktion ist intelligent genug, um herauszufinden, wohin der Stapel bewegt werden soll. Zum Beispiel: Wendet man 'Stapel versetzen' auf eine __ITEM__iron-axe__ an, so wird diese vom Inventar in den Werkzeugslot gesetzt." },
+    "text": "Die Anwendung von \"__CONTROL__stack-transfer__\" bewegt einen ganzen Stapel von Gegenständen. Diese Funktion ist intelligent genug, um herauszufinden, wohin der Stapel bewegt werden soll. Zum Beispiel: Wendet man 'Stapel versetzen' auf eine __ITEM__iron-axe__ an, so wird diese vom Inventar in den Werkzeugslot gesetzt."
+  },
   {
     "title": "Inventar Austausch",
     "image": "inventory-transfer.png",
@@ -21,6 +42,7 @@
   },
   {
     "title": "Hand zurücksetzen",
+    "image": "clean-cursor.png",
     "text": "Die Anwendung von \"__CONTROL__clean-cursor__\" legt den Stapel, der sich gerade in deiner Hand befindet, wieder in die Schnellleiste oder in das Inventar zurück."
   },
   {
@@ -34,8 +56,23 @@
     "text": "Der schnellste Weg um Anlagen in einer Linie zu bauen, wie Fließbänder oder Rohre, ist \"__CONTROL__build__\" auf einem Ort gedrückt zu halten und in die gewünschte Richtung zu rennen."
   },
   {
+    "title": "Schnelles errichten von Stromleitungen",
+    "image": "building-electric-lines.png",
+    "text": "Der schnellste Weg um Stromleitungen zu errichten, ist \"__CONTROL_build__\" zu halten und in die gewünschte Richtung zu rennen, dabei werden die Strommasten automatisch soweit voneinander entfernt aufgestellt wie es möglich ist."
+  },
+  {
     "title": "Filter",
     "image": "filter.png",
     "text": "Die Anwendung von \"__CONTROL__set-filter__\" auf einem Schnellleistenslot reserviert den Slot für den dort befindlichen Gegenstand. Kein anderer Gegenstand kann in diesen Slot gelegt werden und Gegenstände vom betreffenden Typ werden stets in diesen Slot abgelegt."
+  },
+  {
+    "title": "Benutzbare Gegenstände",
+    "image": "usable-items.png",
+    "text": "Benutzbare Gegenstände werden verwendet, indem man den entsprechenden Hotkey für die Schnellleiste drückt. Die Position des Mauszeigers gibt die Position vor an dem der Gegenstand aktiviert werden soll(für Kapseln und Granaten)."
+  },
+  {
+    "title": "Kopierter Bau",
+    "image": "copy-build.png",
+    "text": "Mit \"__CONTROL__alternative-build__\" zu bauen kopiert die Konfiguration, der Maschine des selben Typs, die zuletzt gebaut wurde, für die neue Maschine. Dies schließt Verbindungen zu Netzwerken mit ein."
   }
 ]
