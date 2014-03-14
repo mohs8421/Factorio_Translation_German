@@ -69,10 +69,5 @@
     "title": "Benutzbare Gegenstände",
     "image": "usable-items.png",
     "text": "Benutzbare Gegenstände werden verwendet, indem man den entsprechenden Hotkey für die Schnellleiste drückt. Die Position des Mauszeigers gibt die Position vor an dem der Gegenstand aktiviert werden soll(für Kapseln und Granaten)."
-  },
-  {
-    "title": "Kopierter Bau",
-    "image": "copy-build.png",
-    "text": "Mit \"__CONTROL__alternative-build__\" zu bauen kopiert die Konfiguration, der Maschine des selben Typs, die zuletzt gebaut wurde, für die neue Maschine. Dies schließt Verbindungen zu Netzwerken mit ein."
   }
 ]
